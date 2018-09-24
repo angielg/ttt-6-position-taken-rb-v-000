@@ -5,7 +5,7 @@ def position_taken?(board, index)
      false
   
   else 
-    return true
+     true == true
   end
 end
 
